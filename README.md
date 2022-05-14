@@ -1,5 +1,4 @@
-Projeto criado durante a Semana Spring React
-React, Springboot e Bootstrap
+Projeto criado durante a Semana Spring React, utilizando Springboot, React e Bootstrap.
 
 ```
 npm install --global yarn
